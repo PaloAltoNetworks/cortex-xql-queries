@@ -33,7 +33,7 @@ to us.
 
 ## Maintainers
 
-  - Raymond DePalma - (profile coming soon)
+  - Raymond DePalma - [radepalma](https://github.com/radepalma) 
   - David Falcon - [dfalconpanw](https://github.com/dfalconpanw)
     
 Thank you to all the
