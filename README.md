@@ -30,10 +30,6 @@ We value your contributions! Please read
 for details on how to contribute, and the process for submitting pull requests
 to us. 
 
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning and [conventional commits](https://www.conventionalcommits.org) for
-the commit format to generate release notes.
 
 ## Maintainers
 
