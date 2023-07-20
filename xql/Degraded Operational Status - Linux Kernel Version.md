@@ -1,3 +1,4 @@
+```shell
 //setting case sensitivity to false for this query
 config case_sensitive = false
 
@@ -23,3 +24,4 @@ config case_sensitive = false
 |filter reason contains "kernel"
 
 |comp count_distinct(endpoint_name) as endpoints by kernel_version, operating_system 
+```
