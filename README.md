@@ -32,10 +32,18 @@ to us.
 
 
 ## Maintainers
-
+  - Kevin Mastin - (Account link coming soon)
+  - Ami Tsarfati - (Account link coming soon) 
+  - Maor Hojberg - (Account link coming soon) 
+  - David Soshany - (Account link coming soon) 
+  - Netanel Simchon - (Account link coming soon)
+  - Eric Boerger - (Account link coming soon)
+  - Joel Ebrihimi - (Account link coming soon)
+  - Ron Collins - (Account link coming soon)
   - Raymond DePalma - [radepalma](https://github.com/radepalma) 
   - David Falcon - [dfalconpanw](https://github.com/dfalconpanw)
-    
+  - Mark DeDominic - (Account link coming soon)
+        
 Thank you to all the
 [contributors](https://github.com/PaloAltoNetworks/<your-repo>/contributors) 
 who participated in this project.
