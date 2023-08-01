@@ -1,6 +1,6 @@
-# XQL Queries for Cortex XDR and Cortex XSIAM
+# Correlation Rules and XQL Queries for Cortex XDR and Cortex XSIAM
 
-This repository contains samples of XQL queries that can be leveraged in Cortex XDR and/or Cortex XSIAM.  These queries may have dependencies which will be explained.
+This repository contains samples of correlation rules and XQL queries that can be leveraged in Cortex XDR and/or Cortex XSIAM.  These queries may have dependencies which will be explained.
 
 
 ## Summary
@@ -14,7 +14,18 @@ This repository contains samples of XQL queries that can be leveraged in Cortex 
 
 ## Getting Started
 
-Queries can be copied from this repository and inserted into your query builder by navigating to your tenant and browsing to Incident Response > Investigation > Query Builder.
+Correlation rules can be copied from this repository and inserted into your query builder by navigating to your tenant and browsing to Detection & Threat Intel > Detection Rules > Correlations.
+
+<img width="320" alt="image" src="https://github.com/PaloAltoNetworks/cortex-xql-queries/assets/118747388/6a90274e-cf2c-4761-8c50-720cbea3e44f">
+
+
+When creating correlation rules, be sure to follow the recommendations for the Alert Fields Mapping.
+
+<img width="959" alt="image" src="https://github.com/PaloAltoNetworks/cortex-xql-queries/assets/118747388/e421ff3e-a660-436c-bb9f-1d97f580abf7">
+
+
+
+XQL queries can be copied from this repository and inserted into your query builder by navigating to your tenant and browsing to Incident Response > Investigation > Query Builder.
 
 <img width="229" alt="image" src="https://github.com/PaloAltoNetworks/cortex/assets/118747388/fce7a10b-6f7a-44e1-9bee-fd25ff39a975">
 
