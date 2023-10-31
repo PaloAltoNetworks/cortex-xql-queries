@@ -1,0 +1,5 @@
+config case_sensitive = false
+|dataset = Computadores_AD
+|dedup display_name
+|filter display_name not in(dataset = Computadores_XDR)
+|filter last_modified <= 660
